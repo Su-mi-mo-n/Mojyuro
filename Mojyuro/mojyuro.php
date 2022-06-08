@@ -8,7 +8,7 @@
 </head>
 <body>
 <?php
-//年の受け取り
+//年の受け取りをするぜ
 if(is_numeric($_POST["nen"]))
 {
     $nen = $_POST["nen"];
